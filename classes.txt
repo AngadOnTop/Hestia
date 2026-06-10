@@ -1,0 +1,80 @@
+1
+2
+3
+4
+5
+A
+B
+Back Fist
+C
+D
+E
+F
+Front Fist
+G
+H
+Hand
+Hand Forward
+Hand ForwardUP
+Hand Pouce
+Hand Three Number
+Hand-2inc
+Hand-close
+Hand-open
+Hands
+Hands-detection
+I
+J
+K
+L
+M
+N
+O
+P
+Palm
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+choki
+close
+down
+fist
+good
+guu
+hand
+hand down
+hand up
+hand-with-gloves
+hand1
+hand2
+hand_pen
+hands-left
+hands-right
+hi
+l
+live_long
+myleft
+myright
+ok
+okay
+open
+pa
+palm
+peace
+pointer
+six
+thumbdown
+thumbs_down
+thumbs_up
+thumbsdown
+thumbsup
+thumbup
+yourleft
+yourright

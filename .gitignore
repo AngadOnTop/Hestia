@@ -1,0 +1,27 @@
+# Build output
+build/
+main
+.cursor/
+
+# OS / editor
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Model weights (large — keep locally, don't push)
+*.pt
+*.onnx
+
+# Training runs and metrics
+runs/
+**/runs/
+
+# Dataset images and labels (very large)
+Hand Detection.yolov11/train/
+Hand Detection.yolov11/valid/
+Hand Detection.yolov11/test/
+**/*.cache

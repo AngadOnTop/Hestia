@@ -1,0 +1,3 @@
+cmake -S . -B build  - after making changes to file source
+
+cmake --build build - builds it
