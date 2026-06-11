@@ -3,7 +3,6 @@
 #include <cctype>
 #include <fstream>
 #include <iostream>
-#include <numeric>
 #include <opencv2/opencv.hpp>
 #include <onnxruntime_cxx_api.h>
 #include <string>
